@@ -1,0 +1,73 @@
+{
+    "ASPIRIANTS": [
+       {"asp1":[{
+     "name": "sra1",
+     "dept": "ECM"
+       }]
+   },
+       {"asp2":[{
+       "name": "nihal",
+       "dept": "ECM"
+       }]
+   },
+       {"asp3":[{
+           "name": "sandeep",
+           "dept": "ECE"
+       }]
+    },
+       {"asp4":[{
+        "name": "vinay",
+        "dept": "ECE"
+       }]
+     },
+     {"asp5":[{
+        "name": "chaitanya",
+        "dept": "ECE"
+    }]
+     },
+     {"asp6":[{
+        "name": "soujanya",
+        "dept": "CSE"
+    }]
+     },
+     {"asp7":[{
+        "name": "pavitra",
+        "dept": "CSE"
+    }]
+     },
+     {"asp8":[{
+        "name": "nikhil",
+        "dept": "CSE"
+    }]
+     },
+     {"asp9":[{
+        "name": "anurag",
+        "dept": "CSE"
+    }]
+     },
+    {"asp10":[{
+        "name": "Ashish",
+        "dept": "CSE"
+    }]
+    },
+    {"asp11":[{
+        "name": "sai",
+        "dept": "IT"
+    }]
+    },
+    {"asp12":[{
+        "name": "anvesh",
+        "dept": "CSE"
+    }]
+    },
+    {"asp13":[{
+        "name": "ganesh",
+        "dept": "CSE"
+    }]
+    },
+    {"asp14":[{
+        "name": "venkatesh",
+        "dept": "CSE"
+    }]
+   }
+]}
